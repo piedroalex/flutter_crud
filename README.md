@@ -1,16 +1,19 @@
-# flutter_crud
+# Projeto: flutter_crud
 
-A new Flutter project.
+Esse é um projeto desenvolvido durante o curso [Flutter: Desenvolva um Cadastro Completo](https://www.udemy.com/course/flutter-desenvolva-um-cadastro-completo-2020/) da plataforma de cursos online Udemy.
 
-## Getting Started
+## Etapas
 
-This project is a starting point for a Flutter application.
+Cada commit representa uma etapa do projeto que foi concluida. Abaixo temos a ordem das etapas:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Criação do projeto Flutter;
+- Implementação da classe User e de dados mocados;
+- Implementação da listagem de usuários;
+- Implementação de um provider para manipular os dados;
+- Implementação do método de cadastro de usuário;
+- Implementação do método de remoção de usuário;
+- Implementação de rotas para a navegação entre as telas;
+- Implementação do formulário de cadastro de usuário;
+- Implementação da alteração de um usuário no formulário;
+- Implementação do showDialog para confirmar (ou não) a remoção de um usuário;
+- Mudança do estado da aplicação de Stateless para Stateful;
